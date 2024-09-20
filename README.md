@@ -108,5 +108,3 @@ To predict whether two questions are duplicates, you can use the pre-trained Ran
 ## Conclusion
 
 This project demonstrates how to apply machine learning techniques to solve the duplicate question detection problem on the Quora dataset. By leveraging a combination of basic, token-based, length-based, and fuzzy matching features, the models achieve solid accuracy. The solution is saved as a pickle file, making it reusable and easily integratable into other systems.
-
-This version of the README focuses solely on the concepts and explanations without any code snippets, providing a cleaner overview for your GitHub repository.
